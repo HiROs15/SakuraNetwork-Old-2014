@@ -1,0 +1,4 @@
+name: SakuraNetwork
+main: dev.hiros.SakuraNetwork
+version: 1.0
+softdepend: [HolographicDisplays]

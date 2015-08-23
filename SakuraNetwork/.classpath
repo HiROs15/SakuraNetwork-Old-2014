@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Kyle/Documents/Minecraft/Server/Local Server/plugins/TitleAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kyle/Documents/Minecraft/Server/Local Server/plugins/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kyle/Documents/Minecraft/Server/Local Server/spigot_server.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Kyle/Documents/Minecraft/Server/Local Server/plugins/HologramAPI_v1.3.2 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
